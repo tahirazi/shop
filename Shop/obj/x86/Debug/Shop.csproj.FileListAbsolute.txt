@@ -1,0 +1,335 @@
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\bin\Debug\Shop.pdb
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+c:\users\tahir\documents\visual studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe.manifest
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.TrustInfo.xml
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.exe.manifest
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe.manifest
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.application
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.cache
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.TrustInfo.xml
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.exe.manifest
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.application
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\bnc\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\Tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Update.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Form4.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Returns.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Category_Wise.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.manifest
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.application
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form4.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Returns.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Update.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Category_Wise.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.TrustInfo.xml
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe.manifest
+C:\Users\Tahir Aziz\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.application
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.manifest
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.application
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form4.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Returns.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Update.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Category_Wise.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.cache
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.TrustInfo.xml
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe.manifest
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.application
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Custo.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Users.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\EntityFramework.dll
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\EntityFramework.xml
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Customer.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.CashBook.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record_Report.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report_New.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record_rpt.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agents.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Agents.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance_Report.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record_Report.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.MDIParent1.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Practice_Form.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Invoice_Print.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Invoice_Print.resources
+C:\Users\tahir\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Print_Prices.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Invoice_Print.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Agents.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.CashBook.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Custo.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Invoice_Print.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record_rpt.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Form4.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Agents.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Customer.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.MDIParent1.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Practice_Form.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Print_Prices.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Returns.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report_New.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Update.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Category_Wise.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.Users.resources
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\pktah\OneDrive\Documents\Visual Studio 2015\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.pdb
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe.manifest
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.application
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\EntityFramework.dll
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\bin\Debug\EntityFramework.xml
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.About.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance_Report.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Balance.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Invoice_Print.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record_Report.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agent_Sales_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Agents.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Backup.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Bulk_Data_Insertion.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.CashBook.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Category.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Company.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.config_Bulk_update.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config_Record1.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Config.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Custo.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record_Report.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Balance_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Invoice_Print.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Customer_Sales_Record_rpt.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form1.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form2.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form3.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Form4.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Agents.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_for_Customer.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice_Print.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Invoice.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Label_Printing.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Login.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main_2.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Main.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.MDIParent1.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Practice_Form.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Print_Prices.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Product_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Products.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Returns.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report_New.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record_Report.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sales_Update.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Category_Wise.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Sold_Products_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Bulk_Entry.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock_Record.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Stock.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.Users.resources
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.cache
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.TrustInfo.xml
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.exe.manifest
+C:\Users\maryam\Documents\Visual Studio 2012\Projects\Shop\Shop\obj\x86\Debug\Shop.application

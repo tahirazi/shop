@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="shopModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="shopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="categories" EntityType="shopModel.category" />
+    <EntitySet Name="companies" EntityType="shopModel.company" />
+    <EntitySet Name="configs" EntityType="shopModel.config" />
+    <EntitySet Name="products" EntityType="shopModel.product" />
+    <EntitySet Name="registrations" EntityType="shopModel.registration" />
+    <EntitySet Name="sales" EntityType="shopModel.sale" />
+    <EntitySet Name="solds" EntityType="shopModel.sold" />
+    <EntitySet Name="stocks" EntityType="shopModel.stock" />
+    <EntitySet Name="sysdiagrams" EntityType="shopModel.sysdiagram" />
+    <AssociationSet Name="FK__product__categor__03317E3D" Association="shopModel.FK__product__categor__03317E3D">
+      <End Role="category" EntitySet="categories" />
+      <End Role="product" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__product__company__0425A276" Association="shopModel.FK__product__company__0425A276">
+      <End Role="company" EntitySet="companies" />
+      <End Role="product" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__config__product___0CBAE877" Association="shopModel.FK__config__product___0CBAE877">
+      <End Role="product" EntitySet="products" />
+      <End Role="config" EntitySet="configs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__sold__config_id__164452B1" Association="shopModel.FK__sold__config_id__164452B1">
+      <End Role="config" EntitySet="configs" />
+      <End Role="sold" EntitySet="solds" />
+    </AssociationSet>
+    <AssociationSet Name="FK__stock__config_id__0F975522" Association="shopModel.FK__stock__config_id__0F975522">
+      <End Role="config" EntitySet="configs" />
+      <End Role="stock" EntitySet="stocks" />
+    </AssociationSet>
+    <AssociationSet Name="FK__sold__invoice_no__15502E78" Association="shopModel.FK__sold__invoice_no__15502E78">
+      <End Role="sales" EntitySet="sales" />
+      <End Role="sold" EntitySet="solds" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="category_name" />
+    </Key>
+    <Property Name="category_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="products" Relationship="shopModel.FK__product__categor__03317E3D" FromRole="category" ToRole="product" />
+  </EntityType>
+  <EntityType Name="company">
+    <Key>
+      <PropertyRef Name="company_name" />
+    </Key>
+    <Property Name="company_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="products" Relationship="shopModel.FK__product__company__0425A276" FromRole="company" ToRole="product" />
+  </EntityType>
+  <EntityType Name="config">
+    <Key>
+      <PropertyRef Name="config_id" />
+    </Key>
+    <Property Name="config_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="product_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="features" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="price" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="sale_price" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="product" Relationship="shopModel.FK__config__product___0CBAE877" FromRole="config" ToRole="product" />
+    <NavigationProperty Name="solds" Relationship="shopModel.FK__sold__config_id__164452B1" FromRole="config" ToRole="sold" />
+    <NavigationProperty Name="stocks" Relationship="shopModel.FK__stock__config_id__0F975522" FromRole="config" ToRole="stock" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="product_name" />
+    </Key>
+    <Property Name="product_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="category_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="company_name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="category" Relationship="shopModel.FK__product__categor__03317E3D" FromRole="product" ToRole="category" />
+    <NavigationProperty Name="company" Relationship="shopModel.FK__product__company__0425A276" FromRole="product" ToRole="company" />
+    <NavigationProperty Name="configs" Relationship="shopModel.FK__config__product___0CBAE877" FromRole="product" ToRole="config" />
+  </EntityType>
+  <EntityType Name="registration">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="C_name" Type="String" Nullable="false" MaxLength="70" Unicode="true" FixedLength="false" />
+    <Property Name="username" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="C_password" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="contactno" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+    <Property Name="joiningdate" Type="String" MaxLength="17" Unicode="true" FixedLength="false" />
+    <Property Name="C_role" Type="String" Nullable="false" MaxLength="5" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="sale">
+    <Key>
+      <PropertyRef Name="invoice_no" />
+    </Key>
+    <Property Name="invoice_no" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="invoice_date" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="customer_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="total" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="discount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="received" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="remarks" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="solds" Relationship="shopModel.FK__sold__invoice_no__15502E78" FromRole="sales" ToRole="sold" />
+  </EntityType>
+  <EntityType Name="sold">
+    <Key>
+      <PropertyRef Name="sold_id" />
+    </Key>
+    <Property Name="sold_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="invoice_no" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="config_id" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Decimal" Nullable="false" Precision="4" Scale="2" />
+    <Property Name="price" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="total" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <NavigationProperty Name="config" Relationship="shopModel.FK__sold__config_id__164452B1" FromRole="sold" ToRole="config" />
+    <NavigationProperty Name="sale" Relationship="shopModel.FK__sold__invoice_no__15502E78" FromRole="sold" ToRole="sales" />
+  </EntityType>
+  <EntityType Name="stock">
+    <Key>
+      <PropertyRef Name="stock_id" />
+    </Key>
+    <Property Name="stock_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="config_id" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="total_price" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="stock_date" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="config" Relationship="shopModel.FK__stock__config_id__0F975522" FromRole="stock" ToRole="config" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__product__categor__03317E3D">
+    <End Role="category" Type="shopModel.category" Multiplicity="1" />
+    <End Role="product" Type="shopModel.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="category_name" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="category_name" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__product__company__0425A276">
+    <End Role="company" Type="shopModel.company" Multiplicity="1" />
+    <End Role="product" Type="shopModel.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="company">
+        <PropertyRef Name="company_name" />
+      </Principal>
+      <Dependent Role="product">
+        <PropertyRef Name="company_name" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__config__product___0CBAE877">
+    <End Role="product" Type="shopModel.product" Multiplicity="1" />
+    <End Role="config" Type="shopModel.config" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="product_name" />
+      </Principal>
+      <Dependent Role="config">
+        <PropertyRef Name="product_name" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__sold__config_id__164452B1">
+    <End Role="config" Type="shopModel.config" Multiplicity="1" />
+    <End Role="sold" Type="shopModel.sold" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="config">
+        <PropertyRef Name="config_id" />
+      </Principal>
+      <Dependent Role="sold">
+        <PropertyRef Name="config_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__stock__config_id__0F975522">
+    <End Role="config" Type="shopModel.config" Multiplicity="1" />
+    <End Role="stock" Type="shopModel.stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="config">
+        <PropertyRef Name="config_id" />
+      </Principal>
+      <Dependent Role="stock">
+        <PropertyRef Name="config_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__sold__invoice_no__15502E78">
+    <End Role="sales" Type="shopModel.sale" Multiplicity="1" />
+    <End Role="sold" Type="shopModel.sold" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sales">
+        <PropertyRef Name="invoice_no" />
+      </Principal>
+      <Dependent Role="sold">
+        <PropertyRef Name="invoice_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

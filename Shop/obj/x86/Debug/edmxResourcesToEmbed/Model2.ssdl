@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="shopModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="shopModel1StoreContainer">
+    <EntitySet Name="users" EntityType="shopModel1.Store.users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="display_name" Type="nvarchar" Nullable="false" MaxLength="80" />
+    <Property Name="password" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="role" Type="nvarchar" Nullable="false" MaxLength="15" />
+  </EntityType>
+</Schema>

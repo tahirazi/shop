@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="shopModelStoreContainer" CdmEntityContainer="shopEntities">
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="shopModel.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="category_name" ColumnName="category_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="companies">
+      <EntityTypeMapping TypeName="shopModel.company">
+        <MappingFragment StoreEntitySet="company">
+          <ScalarProperty Name="company_name" ColumnName="company_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="configs">
+      <EntityTypeMapping TypeName="shopModel.config">
+        <MappingFragment StoreEntitySet="config">
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="features" ColumnName="features" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="sale_price" ColumnName="sale_price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="shopModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="category_name" ColumnName="category_name" />
+          <ScalarProperty Name="company_name" ColumnName="company_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="registrations">
+      <EntityTypeMapping TypeName="shopModel.registration">
+        <MappingFragment StoreEntitySet="registration">
+          <ScalarProperty Name="C_name" ColumnName="_name" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="C_password" ColumnName="_password" />
+          <ScalarProperty Name="contactno" ColumnName="contactno" />
+          <ScalarProperty Name="joiningdate" ColumnName="joiningdate" />
+          <ScalarProperty Name="C_role" ColumnName="_role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sales">
+      <EntityTypeMapping TypeName="shopModel.sale">
+        <MappingFragment StoreEntitySet="sales">
+          <ScalarProperty Name="invoice_no" ColumnName="invoice_no" />
+          <ScalarProperty Name="invoice_date" ColumnName="invoice_date" />
+          <ScalarProperty Name="customer_name" ColumnName="customer_name" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="discount" ColumnName="discount" />
+          <ScalarProperty Name="received" ColumnName="received" />
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="solds">
+      <EntityTypeMapping TypeName="shopModel.sold">
+        <MappingFragment StoreEntitySet="sold">
+          <ScalarProperty Name="sold_id" ColumnName="sold_id" />
+          <ScalarProperty Name="invoice_no" ColumnName="invoice_no" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="total" ColumnName="total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stocks">
+      <EntityTypeMapping TypeName="shopModel.stock">
+        <MappingFragment StoreEntitySet="stock">
+          <ScalarProperty Name="stock_id" ColumnName="stock_id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="total_price" ColumnName="total_price" />
+          <ScalarProperty Name="stock_date" ColumnName="stock_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="shopModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
